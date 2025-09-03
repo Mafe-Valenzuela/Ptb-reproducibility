@@ -1,0 +1,9 @@
+# This file may be used to create an environment using:
+# $ conda create --name ptb2 --file requirements.txt
+
+numpy==1.25.2
+opencv-python==4.6.0
+openpyxl==3.0.10
+pandas==2.0.3
+pyqt==5.15.7
+python==3.9.0
